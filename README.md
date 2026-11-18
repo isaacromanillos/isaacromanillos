@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BACKEND_LOGIC-ADVANCED-brightgreen?style=for-the-badge" alt="Backend Logic" />
-  <img src="https://img.shields.io/badge/REST_APIS-ADVANCED-brightgreen?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/ARCHITECTURE-MVC_%26_MVVM-brightgreen?style=for-the-badge" alt="Architecture" />
   <img src="https://img.shields.io/badge/CYBERSECURITY-LEVEL_3-brightgreen?style=for-the-badge" alt="Cybersecurity" />
 </p>
